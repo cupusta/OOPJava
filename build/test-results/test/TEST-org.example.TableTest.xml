@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.TableTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-11-01T15:39:11" hostname="PARLI" time="0.015">
+  <properties/>
+  <testcase name="testToString()" classname="org.example.TableTest" time="0.01"/>
+  <testcase name="average()" classname="org.example.TableTest" time="0.001"/>
+  <testcase name="cols()" classname="org.example.TableTest" time="0.001"/>
+  <testcase name="rows()" classname="org.example.TableTest" time="0.0"/>
+  <testcase name="getValue()" classname="org.example.TableTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
